@@ -6,8 +6,8 @@
 
   const defaultConfig = {
     dbMode: 'supabase', // Force supabase
-    supabaseUrl: '',
-    supabaseAnonKey: ''
+    supabaseUrl: 'https://vldpwwqnskpkgqdpsecu.supabase.co',
+    supabaseAnonKey: 'sb_publishable_5S1e8WrTTVzHIpmgOfElUQ_HRQrSaYO'
   };
 
   window.AppConfig = {
